@@ -1,0 +1,1 @@
+It's a repo of some notes for leet code questions
